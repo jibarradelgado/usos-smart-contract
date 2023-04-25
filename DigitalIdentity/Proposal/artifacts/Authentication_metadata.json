@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.7+commit.e28d00a7"
+		"version": "0.8.18+commit.87f61d96"
 	},
 	"language": "Solidity",
 	"output": {
@@ -51,9 +51,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/DigitalIdentity/Proposal/Authentication.sol": "Authentication"
+			"DigitalIdentity/Proposal/Authentication.sol": "Authentication"
 		},
-		"evmVersion": "london",
+		"evmVersion": "paris",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -65,12 +65,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/DigitalIdentity/Proposal/Authentication.sol": {
-			"keccak256": "0x04795a7173bf5d1fd4f0ca9b60b8d27c5f70f10c222cb140f206cca285a4caa9",
+		"DigitalIdentity/Proposal/Authentication.sol": {
+			"keccak256": "0xb40985bba87bcb49f7076315dd456b438c47d8e7e8ab82c3587e6d4fea4f462b",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://6e279db8d94e2b247ccf2a3723deb65182ba2c2c8921cf8f8c4d4c22446ae1d5",
-				"dweb:/ipfs/QmYKq9HcTAic66XJGt2BYv481zVj971S4zr8DRPwqv4Mtv"
+				"bzz-raw://dedcf088d9b24777980dd3105ece2d5306e93499b40287e373f05a0e5a34d857",
+				"dweb:/ipfs/QmYnuyngv13eLpQ8eimLCZrnBB8aMU2Unc5cSQ184LkHGC"
 			]
 		}
 	},

@@ -2,8 +2,8 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 contract TokenBasic {
-    string public constant name = "PlatziCoin";
-    string public constant symbol = "PZC";
+    string public constant name = "Pixcoin";
+    string public constant symbol = "Pix";
     uint8 public constant decimals = 18;
 
     uint256 _totalSupply;
